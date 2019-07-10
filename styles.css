@@ -1,0 +1,28 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizig: border-box;
+}
+h1{
+  color: #000000;
+}
+.header{
+  text-align: center;
+  background-color: #C790D8;
+}
+img{
+  width: 200px;
+  height: 200px;
+  padding: 6px;
+  border: 6px double #592469;
+  margin: 20px;
+}
+.body{
+  background-color: #F7EDFA;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.fit {
+  object-fit: cover;
+}
